@@ -1,3 +1,6 @@
+#update on : 14.04.2019
+#coder : Rajdip Mondal
+#email: rajdipmondal34@gmail.com
 import cv2
 import numpy as np
 import pyautogui
